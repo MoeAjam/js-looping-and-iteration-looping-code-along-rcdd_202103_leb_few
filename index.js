@@ -3,4 +3,5 @@ function writeCards(myArray, eventName){
   for(let i=0; i<myArray.length;i++){
     result[i]= "Thank you, ${myArray[i]}, for the wonderful birthday gift!";
   }
+  return resultl
 }
