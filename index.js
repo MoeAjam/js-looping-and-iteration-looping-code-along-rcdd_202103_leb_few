@@ -1,5 +1,5 @@
 function writeCards(myArray, eventName){
-  const result;
+  let result;
   for(let i=0; i<myArray.length;i++){
     result[i]= "Thank you, ${myArray[i]}, for the wonderful ${eventName} gift!";
   }
