@@ -5,3 +5,4 @@ function writeCards(myArray, eventName){
   }
   return result;
 }
+writeCards(["Ada", "Brendan", "Ali"], "birthday");
